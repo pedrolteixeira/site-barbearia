@@ -3,7 +3,7 @@ body {
 }
 
 header {
-    background: #000220;
+    background: #221301;
     padding: 20px 0 ;
 }
 
@@ -239,4 +239,8 @@ td, th {
 
 .itens {
     line-height: 1.5;
+}
+
+.logo {
+    width: 140px;
 }
